@@ -9,7 +9,7 @@ fi
 
 #get website name
 #read -p 'Enter website name as something.com or first.something.com(without www): ' websitename
-websitename=$1
+websitename="d9.hostany.live"
 
 
 #update repo
